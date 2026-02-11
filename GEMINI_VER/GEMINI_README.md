@@ -1,4 +1,4 @@
-# 🤖 소놀봇 (mybot_ver2) - Google Gemini Version
+# Google Gemini Version
 
 이 버전은 **Claude CLI** 대신 **Google Gemini API**를 사용하여 동작하는 자율 에이전트 봇입니다.
 

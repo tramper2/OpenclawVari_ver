@@ -1,4 +1,4 @@
-# 🤖 소놀봇 (Variant Version) - Multi-Provider
+# (Variant Version) - Multi-Provider
 
 이 버전은 **사용자가 원하는 AI(LLM)를 선택**하여 사용할 수 있는 확장판입니다.
 하나의 봇으로 OpenAI(ChatGPT), Moonshot(Kimi), DeepSeek, Zhipu(GLM), Google Gemini 등을 모두 구동할 수 있습니다.
