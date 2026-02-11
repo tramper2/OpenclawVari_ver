@@ -1,0 +1,15 @@
+# 소놀봇 (Variant Version - Multi-Provider) Python 의존성
+
+# 텔레그램 봇 API
+python-telegram-bot==22.6
+
+# 환경 변수 관리
+python-dotenv==1.1.1
+
+# 유틸리티
+requests==2.32.3
+
+# AI Providers
+openai>=1.0.0
+zhipuai>=2.0.0
+google-generativeai
